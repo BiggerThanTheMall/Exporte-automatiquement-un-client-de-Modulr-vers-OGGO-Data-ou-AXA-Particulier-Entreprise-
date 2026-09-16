@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Modulr → Export Client (OGGO & AXA)
 // @namespace    https://github.com/BiggerThanTheMall/tampermonkey-ltoa
-// @version      4.10.0
+// @version      4.10.1
 // @description  Exporte automatiquement un client de Modulr vers OGGO Data ou AXA (Particulier & Entreprise)
 // @author       LTOA
 // @match        https://courtage.modulr.fr/fr/scripts/clients/clients_card.php*
@@ -14,8 +14,8 @@
 // @grant        GM_getValue
 // @grant        GM_deleteValue
 //
-// @updateURL    https://raw.githubusercontent.com/BiggerThanTheMall/tampermonkey-ltoa/main/Modulr-Export-Client-OGGO-AXA.user.js
-// @downloadURL  https://raw.githubusercontent.com/BiggerThanTheMall/tampermonkey-ltoa/main/Modulr-Export-Client-OGGO-AXA.user.js
+// @updateURL    https://raw.githubusercontent.com/BiggerThanTheMall/Exporte-automatiquement-un-client-de-Modulr-vers-OGGO-Data-ou-AXA-Particulier-Entreprise-/main/Modulr-Export-Client-OGGO-AXA.user.js
+// @downloadURL  https://raw.githubusercontent.com/BiggerThanTheMall/Exporte-automatiquement-un-client-de-Modulr-vers-OGGO-Data-ou-AXA-Particulier-Entreprise-/main/Modulr-Export-Client-OGGO-AXA.user.js
 // ==/UserScript==
 
 (function() {
